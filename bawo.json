@@ -1,0 +1,26 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "Vivo S6 5G",
+      "Processor": "Exynos 980",
+      "Ram": " 8 GB",
+      "Storage": "128 GB, 256 GB",
+      "Display": "6.44 inches",
+      "Camera": "Quad Camera",
+      "Battery": "Li-Po 4500 mAh battery",
+      "image": "https://i.postimg.cc/RZX0LMwP/Original-Global-Version-Mobilephone-for-Vivo-S6-Cell-Phone-5g-HD-Camera-Fingerprint-Mobile-Phones-re.png"
+    },
+    {
+      "id": 2,
+      "name": "Oppo Reno5 5G",
+      "Processor": "Qualcomm Snapdragon 765G",
+      "Ram": "8/12 GB",
+      "Storage": "128/256 GB",
+      "Display": "6.4 inches",
+      "Camera": "64mp",
+      "Battery": "Li-Po 4300mAh ",
+      "image": "https://i.postimg.cc/Z539PkV2/Renault-5-opens-the-OPPO-Exchange-program-for-adding-old-removebg-preview.png"
+    }
+  ]
+}
